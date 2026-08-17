@@ -54,8 +54,8 @@ Learn how to create logos that are meaningful and built with purpose. This branc
 Understand what makes a logo effective, memorable, and appropriate. Learn the core principles of simplicity, distinctiveness, scalability, symbolism, typography, and visual balance.
 
 **Learn**
-- https://www.youtube.com/watch?v=-0kt008QsUY
-- Extra Material - https://www.youtube.com/watch?v=OcF1KBnlvTc
+- [The NEW Logo Design Knowledge You Need In 2026! - Satori Graphics](https://www.youtube.com/watch?v=-0kt008QsUY)
+- Extra Material - [Visual Identities: More Than Just A Logo | Sagi Haviv - TEDx Talks](https://www.youtube.com/watch?v=OcF1KBnlvTc)
 
 **Build**
 - TBA
@@ -68,6 +68,7 @@ Learn how to turn brand strategy and ideas into strong logo concepts. Explore ho
 
 **Learn**
 - https://www.youtube.com/watch?v=Umin1iXhsn0
+- - [The NEW Logo Design Knowledge You Need In 2026! - Satori Graphics](https://www.youtube.com/watch?v=Umin1iXhsn0)
 
 **Build**
 - TBA
