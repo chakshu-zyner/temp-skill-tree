@@ -67,8 +67,8 @@ Understand what makes a logo effective, memorable, and appropriate. Learn the co
 Learn how to turn brand strategy and ideas into strong logo concepts. Explore how to find the right visual direction, generate meaningful ideas, and avoid creating logos that are simply decorative or generic.
 
 **Learn**
-- https://www.youtube.com/watch?v=Umin1iXhsn0
-- - [The NEW Logo Design Knowledge You Need In 2026! - Satori Graphics](https://www.youtube.com/watch?v=Umin1iXhsn0)
+- [Logo Design Process: Creating a REAL Client’s Logo from Scratch - Will Paterson](https://www.youtube.com/watch?v=Umin1iXhsn0)
+- [The NEW Logo Design Knowledge You Need In 2026! - Satori Graphics](https://www.youtube.com/watch?v=Umin1iXhsn0)
 
 **Build**
 - TBA
