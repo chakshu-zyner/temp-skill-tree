@@ -98,3 +98,53 @@ Links: https://type.method.ac/ , [Global Brand Database](https://branddb.wipo.in
 - TBA
 
 </details>
+
+
+<details>
+<summary><strong>Branch 03 - Visual Identity</strong></summary>
+Learn how to build a complete visual system around the logo. It covers color, typography, iconography, illustration, and real-world brand applications, with a focus on creating a cohesive identity where every visual element works together consistently.
+
+### Node 1 - Color & Typography - Key
+Learn how to choose and build a color and typography system that reflects the brand personality, creates clear hierarchy, and stays consistent across different brand touchpoints.
+
+**Learn**
+- [Title](Link)
+  
+**Build**
+- TBA
+
+**Quiz**
+- TBA
+
+### Node 2 - Iconography & Illustration - Key
+Learn how to develop a consistent style for icons and illustrations that supports the brand identity. Focus on visual consistency, style, proportions, and how these elements work together with the rest of the identity.
+
+**Learn**
+- [Title](Link)
+
+**Build**
+- TBA
+
+**Quiz**
+- TBA
+
+### Node 3 - Brand Applications - Optional
+Learn how to apply the brand identity across real-world touchpoints such as websites, social media, presentations, stationery, and other relevant applications while maintaining consistency and visual quality.
+
+**Learn**
+- [Title](Link)
+
+**Build**
+- TBA
+
+**Quiz**
+- TBA
+
+</details>
+
+<details>
+
+
+
+
+
