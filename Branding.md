@@ -142,7 +142,6 @@ Learn how to apply the brand identity across real-world touchpoints such as webs
 
 </details>
 
-<details>
 
 
 
