@@ -89,7 +89,7 @@ Learn how to take a promising concept and develop it into a polished logo. Focus
 - [What Is Clearspace For Logos? - Will Paterson](https://www.youtube.com/watch?v=jkuSF0r73AQ)
 - [How Professional Designers Test Logos - Will Paterson](https://www.youtube.com/watch?v=j299fIs_fMI)
 
-Links: https://type.method.ac/
+Links: https://type.method.ac/ , [Global Brand Database](https://branddb.wipo.int/en/similarlogo?strategy=concept&sort=score%20desc&start=0&rows=60&asStructure=%7B%22boolean%22:%22AND%22,%22bricks%22:%5B%5D%7D&_=1787038977471)
 
 **Build**
 - TBA
