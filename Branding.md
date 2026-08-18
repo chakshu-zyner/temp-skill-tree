@@ -54,8 +54,10 @@ Learn how to create logos that are meaningful and built with purpose. This branc
 Understand what makes a logo effective, memorable, and appropriate. Learn the core principles of simplicity, distinctiveness, scalability, symbolism, typography, and visual balance.
 
 **Learn**
+
+- [The Psychology of Logo Design: Gestalt Theory - Canva](https://www.youtube.com/watch?v=6sG6cLiq5M0)
 - [The NEW Logo Design Knowledge You Need In 2026! - Satori Graphics](https://www.youtube.com/watch?v=-0kt008QsUY)
-- Extra Material - [Visual Identities: More Than Just A Logo | Sagi Haviv - TEDx Talks](https://www.youtube.com/watch?v=OcF1KBnlvTc)
+- [Visual Identities: More Than Just A Logo | Sagi Haviv - TEDx Talks](https://www.youtube.com/watch?v=OcF1KBnlvTc)
 
 **Build**
 - TBA
@@ -67,8 +69,8 @@ Understand what makes a logo effective, memorable, and appropriate. Learn the co
 Learn how to turn brand strategy and ideas into strong logo concepts. Explore how to find the right visual direction, generate meaningful ideas, and avoid creating logos that are simply decorative or generic.
 
 **Learn**
+- [10 MIND BLOWING Logo Design Tips - Will Paterson](https://www.youtube.com/watch?v=gW5IpIUmOr8)
 - [Logo Design Process: Creating a REAL Client’s Logo from Scratch - Will Paterson](https://www.youtube.com/watch?v=Umin1iXhsn0)
-- [The NEW Logo Design Knowledge You Need In 2026! - Satori Graphics](https://www.youtube.com/watch?v=Umin1iXhsn0)
 
 **Build**
 - TBA
@@ -80,19 +82,14 @@ Learn how to turn brand strategy and ideas into strong logo concepts. Explore ho
 Learn how to take a promising concept and develop it into a polished logo. Focus on proportion, spacing, geometry, typography, balance, and making sure every detail has a reason.
 
 **Learn**
-- [Understanding Logo Design](https://www.youtube.com/watch?v=Umin1iXhsn0)
 
-**Build**
-- TBA
+- [7 Must-Know Pro Tips for Logo Design - Dansky](https://www.youtube.com/watch?v=DuOmi7lSJR4)
+- [How To Balance Your Logo Designs: A Step-by-Step Guide - Will Paterson](https://www.youtube.com/watch?v=tM2PJwESobc)
+- [How To Kern Professionally. - Will Paterson](https://www.youtube.com/watch?v=DwzyRNcLkao) & [How to Kern Logos - Pixel & Bracket](https://www.youtube.com/watch?v=p-u-_FbgGYE)
+- [What Is Clearspace For Logos? - Will Paterson](https://www.youtube.com/watch?v=jkuSF0r73AQ)
+- [How Professional Designers Test Logos - Will Paterson](https://www.youtube.com/watch?v=j299fIs_fMI)
 
-**Quiz**
-- TBA
-
-### Node 4 - Logo Usage - Compulsory
-Learn how a logo should work in the real world. Understand variations, sizing, clear space, color applications, backgrounds, and how to maintain consistency across different brand touchpoints.
-
-**Learn**
--
+Links: https://type.method.ac/
 
 **Build**
 - TBA
