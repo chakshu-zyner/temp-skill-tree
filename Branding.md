@@ -189,7 +189,7 @@ D. It uses technical design terminology to make the presentation sound professio
 <summary><strong>Branch 02 - Logo Design</strong></summary>
 Learn how to create logos that are meaningful and built with purpose. This branch covers the thinking behind a strong logo, from understanding the fundamentals to developing concepts, refining the final mark, and applying it correctly across different situations.
 
-### Node 1 - Logo Fundamentals - Compulsory
+### Node 1 - Logo Fundamentals - Key
 Understand what makes a logo effective, memorable, and appropriate. Learn the core principles of simplicity, distinctiveness, scalability, symbolism, typography, and visual balance.
 
 **Learn**
@@ -250,7 +250,7 @@ D. A meaningful logo guarantees that every customer will understand its exact me
 **Correct Answer:** A
 </details>
 
-### Node 2 - Concept Development - Compulsory
+### Node 2 - Concept Development - Key
 Learn how to turn brand strategy and ideas into strong logo concepts. Explore how to find the right visual direction, generate meaningful ideas, and avoid creating logos that are simply decorative or generic.
 
 **Learn**
@@ -310,7 +310,7 @@ D. Reconsider the concept and explore another interpretation that creates a more
 
 </details>
 
-### Node 3 - Logo Refinement - Compulsory
+### Node 3 - Logo Refinement - Key
 Learn how to take a promising concept and develop it into a polished logo. Focus on proportion, spacing, geometry, typography, balance, and making sure every detail has a reason.
 
 **Learn**
@@ -398,6 +398,50 @@ Learn how to choose and build a color and typography system that reflects the br
 <details>
 <summary><strong></strong>Quiz</strong></summary>
 
+**1. A brand needs to feel premium, trustworthy, and modern. What should guide the designer when choosing its colour palette?**
+
+A. The colours most frequently used by successful brands in the same industry  
+B. A combination of colours that reflects the intended personality and creates a clear visual hierarchy  
+C. The designer's preferred colours, adjusted to match the client's existing website  
+D. The latest colour trends that are gaining popularity within contemporary branding  
+
+**Correct Answer:** B
+
+**2. A designer has selected a strong primary typeface for a brand. What should they consider when building the rest of the typography system?**
+
+A. Whether additional typefaces create clear hierarchy while remaining visually compatible with the primary typeface  
+B. Whether each section of the brand can use a different typeface to create more visual variety  
+C. Whether the secondary typeface is currently popular among brands with similar audiences  
+D. Whether the typography becomes more distinctive when several contrasting typefaces are combined  
+
+**Correct Answer:** A
+
+**3. A colour palette contains six equally prominent colours, and every application uses all of them. What is the main issue with this approach?**
+
+A. The palette may lack hierarchy, making it harder to establish consistent visual emphasis across applications  
+B. The palette contains too many colours for any professional brand identity to use effectively  
+C. The colours should all have similar saturation so they can work together more consistently  
+D. The palette should use only neutral colours because strong colours reduce brand sophistication  
+
+**Correct Answer:** A
+
+**4. A designer chooses a typeface because it looks visually attractive on its own. What should they consider before making the final decision?**
+
+A. Whether the typeface is currently being used by other successful brands in the same category  
+B. Whether the typeface has enough decorative details to make the identity feel distinctive  
+C. Whether its characteristics support the brand personality and work across the required applications  
+D. Whether the typeface creates enough contrast with the colours selected for the identity  
+
+**Correct Answer:** C
+
+**5. A brand uses a dark primary colour, a lighter supporting colour, and a bright accent colour. What is the main benefit of assigning these roles deliberately?**
+
+A. It allows every application to use the same number of colours without needing further decisions  
+B. It creates a consistent system where colours can perform different roles and establish visual hierarchy  
+C. It ensures the accent colour becomes the dominant visual element across all brand touchpoints  
+D. It allows the designer to change the colour combinations freely while keeping the identity recognisable  
+
+**Correct Answer:** B
 
 </details>
 
@@ -414,8 +458,55 @@ Learn how to develop a consistent style for icons and illustrations that support
 **Build**
 - TBA
 
-**Quiz**
-- TBA
+<details>
+<summary><strong></strong>Quiz</strong></summary>
+
+**1. A designer has completed the logo and visual direction for a brand. What is the main purpose of creating a brand guide?**
+
+A. To show the client how the identity was developed and explain every creative decision behind it  
+B. To collect the strongest presentation images and create a final showcase of the completed project  
+C. To give the team practical rules for using the identity consistently across different brand applications  
+D. To introduce the brand strategy and present the thinking that led to the chosen visual direction  
+
+**Correct Answer:** C
+
+**2. A brand guide includes the logo, colours, typography, and supporting visual elements. What makes the document useful as a system rather than just a collection of assets?**
+
+A. Each element has clear rules showing how it should be used and how it works with the wider identity  
+B. Each element is presented using the same layout so the document feels visually consistent  
+C. Each element is shown in several mockups so the client can compare different possible applications  
+D. Each element is explained through the designer's creative process and the reasoning behind its creation  
+
+**Correct Answer:** A
+
+**3. A designer is preparing the brand guide for a new identity. Which approach would best help maintain consistency across future applications?**
+
+A. Provide the final logo and colour palette while allowing future designers to interpret the remaining elements  
+B. Include clear usage examples and specifications for the main visual elements of the identity  
+C. Focus mainly on showing polished mockups so users can understand the intended look of the brand  
+D. Include the original research and concept sketches so future designers understand how the identity developed  
+
+**Correct Answer:** B
+
+**4. A designer is creating a brand identity presentation before the final brand guide. What should the presentation primarily communicate?**
+
+A. The technical specifications needed to reproduce every element of the identity correctly  
+B. The complete library of final assets that users will need for future brand applications  
+C. The reasoning behind the identity and how the visual decisions connect to the brand strategy  
+D. The detailed rules that determine how every visual element should be used across different media  
+
+**Correct Answer:** C
+
+**5. A brand guide needs to explain how the identity should be used across different applications. Which content would be most valuable to include?**
+
+A. Only the final logo files, selected typefaces, and approved colour swatches for reference  
+B. The original sketches, rejected concepts, research references, and complete design process  
+C. A collection of finished mockups showing how the identity could look in different situations  
+D. Practical specifications, usage rules, and examples that show how the visual system should be applied  
+
+**Correct Answer:** D
+
+</details>
 
 
 </details>
