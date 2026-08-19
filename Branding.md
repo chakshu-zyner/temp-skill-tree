@@ -201,7 +201,8 @@ Understand what makes a logo effective, memorable, and appropriate. Learn the co
 **Build**
 - TBA
 
-**Quiz**
+<details>
+<summary><strong></strong>Quiz</strong></summary>
 
 **1. A designer is evaluating whether a logo is effective. Which combination should be considered most important?**
 
@@ -248,6 +249,8 @@ D. A meaningful logo guarantees that every customer will understand its exact me
 
 **Correct Answer:** A
 
+</details>
+
 ### Node 2 - Concept Development - Compulsory
 Learn how to turn brand strategy and ideas into strong logo concepts. Explore how to find the right visual direction, generate meaningful ideas, and avoid creating logos that are simply decorative or generic.
 
@@ -258,7 +261,8 @@ Learn how to turn brand strategy and ideas into strong logo concepts. Explore ho
 **Build**
 - TBA
 
-**Quiz**
+<details>
+<summary><strong></strong>Quiz</strong></summary>
 
 **1. A designer needs to create several logo concepts from a brand's core idea. Which approach is most appropriate during the early concept stage?**
 
@@ -305,6 +309,8 @@ D. Reconsider the concept and explore another interpretation that creates a more
 
 **Correct Answer:** D
 
+</details?
+
 ### Node 3 - Logo Refinement - Compulsory
 Learn how to take a promising concept and develop it into a polished logo. Focus on proportion, spacing, geometry, typography, balance, and making sure every detail has a reason.
 
@@ -321,7 +327,8 @@ Links: https://type.method.ac/ , [Global Brand Database](https://branddb.wipo.in
 **Build**
 - TBA
 
-**Quiz**
+<details>
+<summary><strong></strong>Quiz</strong></summary>
 
 **1. A designer has a strong logo concept, but the mark feels slightly unbalanced when viewed at different sizes. What should they focus on during refinement?**
 
@@ -367,6 +374,7 @@ C. It establishes the correct relationship between the logo and the typography u
 D. It defines the amount of space required between different versions of the logo in a presentation  
 
 **Correct Answer:** B
+</details>
 
 </details>
 
