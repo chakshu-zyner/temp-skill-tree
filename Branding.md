@@ -14,7 +14,8 @@ Learn how to interpret the client's VideoAsk, identify the most important busine
   
 **Build**
 - TBA
-
+[Open Node 1](./LatchVideAsk.md)
+- 
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
