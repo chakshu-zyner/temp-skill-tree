@@ -13,11 +13,9 @@ Learn how to interpret the client's VideoAsk, identify the most important busine
 - [ACE Logo Design Research With These Techniques - Gareth David Studio](https://www.youtube.com/watch?v=YSx0AaTUSj0)
   
 **Build**
-- TBA
-[Latch Video Ask](./LatchVideoAsk.md)
-- 
+- [Latch Video Ask](./LatchVideoAsk.md)
+- [Task Kick Off Call](./TaskKickOffCall.md)
 
-<details>
 <summary><strong></strong>Quiz</strong></summary>
 
 **1. You receive a client brief containing a lot of information, but some points are vague or contradictory. What should you do before starting to design?**
