@@ -113,7 +113,7 @@ Create **3 distinct stylescapes** that explore different visual territories whil
 - **Stylescape 01**
 - **Stylescape 02**
 - **Stylescape 03**
-- A short description or a Loom, for each stylescape explaining the **visual direction and why it fits the brand**
+- A short description for each stylescape explaining the **visual direction and why it fits the brand**
 
 > **Why it matters**
 >
