@@ -12,10 +12,31 @@ Learn how to interpret the client's VideoAsk, identify the most important busine
 - [Extract WINNING Ideas From a Design Brief - Gareth David Studio](https://www.youtube.com/watch?v=TkGxTeVqLVs)
 - [ACE Logo Design Research With These Techniques - Gareth David Studio](https://www.youtube.com/watch?v=YSx0AaTUSj0)
   
-**Build**
-- [Latch Video Ask](./LatchVideoAsk.md)
-- [Task Kick Off Call](./TaskKickOffCall.md)
+<details>
+<summary><strong></strong>Build</strong></summary>
 
+You’ve received a new branding project from Latch. Review the [Latch Video Ask](./LatchVideoAsk.md) transcript and the [Task Kick Off Call](./TaskKickOffCall.md) transcript. Extract the information that will guide the branding process. Focus especially on identifying **Brand Keywords**, as these define what the brand should communicate and what it should avoid.
+
+**Extract:**
+
+- Company / Product
+- Problem they solve
+- ICP
+- Competitors
+- **Brand Keywords — Do's:** Enterprise, Professional, Trustworthy, Technical, Mature
+- **Brand Keywords — Don'ts:** Playful, Casual, Loud, Trendy, etc.
+- Brands they like
+- Style / Vibe preferences
+
+
+> **Why it matters**
+>
+> **Brand Keywords are the foundation for your design decisions.** They help you judge whether a logo, color, typography, visual direction, or brand application is right for the client. Every major design decision should connect back to these keywords.
+
+**Goal:** Turn the client's VideoAsk into a clear set of **design direction and boundaries** that can be used throughout the entire branding project.
+</details>
+
+<details>
 <summary><strong></strong>Quiz</strong></summary>
 
 **1. You receive a client brief containing a lot of information, but some points are vague or contradictory. What should you do before starting to design?**
