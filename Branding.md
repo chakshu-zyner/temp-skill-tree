@@ -94,8 +94,33 @@ Learn how to turn the insights from the client brief and research into a clear v
 - [Stylescapes - What Is It & How To Create One - Flux Academy](https://www.youtube.com/watch?v=9MOuHiQWFoU)
 - [The Stylescape Framework Every Brand Designer Should Know - Yanis Xavier](https://www.youtube.com/watch?v=56qaOPNuAJI)
 
-**Build**
-- TBA
+<details>
+<summary><strong></strong>Build</strong></summary>
+
+Now that you have extracted the key information and **Brand Keywords** from the Latch client brief, use those insights to explore the visual direction of the brand.
+
+Create **3 distinct stylescapes** that explore different visual territories while staying aligned with the client's requirements and Brand Keywords.
+
+**Each stylescape should:**
+- Reflect the brand's **Do's and Don'ts**
+- Explore a distinct visual direction
+- Use references with a clear purpose
+- Show relevant typography, color, imagery, graphic elements, shapes, textures, etc.
+- Communicate a clear overall **look and feel**
+- Avoid simply collecting visually attractive references
+
+**Output:**
+- **Stylescape 01**
+- **Stylescape 02**
+- **Stylescape 03**
+- A short description or a Loom, for each stylescape explaining the **visual direction and why it fits the brand**
+
+> **Why it matters**
+>
+> A stylescape turns abstract brand keywords into a tangible visual direction. Exploring multiple territories helps you compare different possibilities before committing to a direction for the logo and brand identity.
+
+**Goal:** Explore **3 strong and distinct visual directions** for Latch and identify which direction has the strongest potential for the branding.
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
