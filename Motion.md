@@ -19,6 +19,69 @@ Learn how to understand a Client brief, identify the objective, target audience,
 <details>
 <summary><strong>Quiz</strong></summary>
 
+### Question 01
+
+A client wants a 30-second product video for senior decision-makers at large companies. Which brief detail should most directly influence the creative approach?
+
+- A. The video's intended audience
+- B. The product's feature list
+- C. The client's preferred format
+- D. The available production time
+
+**Answer:** A
+
+---
+
+### Question 02
+
+A client wants a motion graphic that explains a complex product to people who have never used it before. What should the designer establish first?
+
+- A. The visual style
+- B. The key message
+- C. The transition style
+- D. The animation pace
+
+**Answer:** B
+
+---
+
+### Question 03
+
+The brief says the video should feel professional, trustworthy, and technically sophisticated. Which decision should be evaluated against these requirements?
+
+- A. How many scenes the video contains
+- B. Which software is used for animation
+- C. How the visual language is developed
+- D. How long the final export takes
+
+**Answer:** C
+
+---
+
+### Question 04
+
+A brief requires a 15-second product video with one key message. During research, you find enough information to explain the product in two minutes. What should guide what you include?
+
+- A. The amount of information available
+- B. The number of features being promoted
+- C. The length of the reference videos
+- D. The communication goal and time limit
+
+**Answer:** D
+
+---
+
+### Question 05
+
+A client needs the same motion graphic in both 16:9 and 9:16 formats. Why should this requirement be identified before designing the scenes?
+
+- A. It can affect how the composition is planned
+- B. It determines which message the video should communicate
+- C. It changes the target audience of the video
+- D. It determines which visual style the designer should use
+
+**Answer:** A
+
 </details>
 
 ### Node 2 - Script & Voiceover - Key
@@ -33,6 +96,8 @@ Learn how to break down a script and understand how written information translat
 - [What Makes a Great Motion Design Script? - Dan Neale](https://motionstory.com.au/what-makes-a-great-motion-design-script/)
 - [How I Actually Make AI Voice Sound Real - Isaac](https://www.youtube.com/watch?v=KhQTKG3Xtbs&t=401s)
 
+> **Note:** If the final voiceover cannot be created at this stage because it requires client approval or other information, use a **dummy voiceover** with the approximate script and pacing. The purpose is to understand the timing and rhythm of the video, not to produce the final approved voiceover.
+
 <details>
 <summary><strong>Build</strong></summary>
 
@@ -40,6 +105,69 @@ Learn how to break down a script and understand how written information translat
 
 <details>
 <summary><strong>Quiz</strong></summary>
+
+### Question 01
+
+You are given a SaaS explainer script that says: “Your team spends hours checking multiple dashboards to understand what went wrong. Our platform brings everything into one place.” How should a motion designer approach this section?
+
+- A. Show the product interface immediately and use the voiceover to explain the problem afterward.
+- B. Focus mainly on decorative animation while keeping the script as background narration.
+- C. Identify the problem and solution as separate beats and develop visuals that support each part.
+- D. Display the entire script on screen so the viewer receives all the information visually.
+
+**Answer:** C
+
+---
+
+### Question 02
+
+A script contains several facts, features, and supporting details, but the video has a strict 30-second duration. What is the most important consideration when editing the script for motion?
+
+- A. Keep every detail and increase the speed of the voiceover so everything fits.
+- B. Prioritize the information that supports the main message and remove unnecessary details.
+- C. Give each feature the same amount of screen time regardless of its importance.
+- D. Move most of the information into on-screen text so the voiceover can remain unchanged.
+
+**Answer:** B
+
+---
+
+### Question 03
+
+A product video needs to explain a complicated technical process to a non-technical audience. Which approach is most likely to make the story easier to understand?
+
+- A. Present the technical process exactly as it works, including every step and system detail.
+- B. Introduce the most advanced features first to establish the product's capabilities.
+- C. Use visuals that simplify the idea and guide the viewer through the information in a logical sequence.
+- D. Replace the technical explanation with fast-paced animation so the audience stays engaged.
+
+**Answer:** C
+
+---
+
+### Question 04
+
+A voiceover sentence introduces a new product feature while the current scene is still showing the previous feature. What should the designer consider when planning the sequence?
+
+- A. Start the next visual before the voiceover changes topic.
+- B. Keep the previous visual until the sentence finishes.
+- C. Time the visual change to support the new information being spoken.
+- D. Add more animation to the current scene before moving on.
+
+**Answer:** C
+
+---
+
+### Question 05
+
+You are preparing a voiceover for a professional product video. The generated AI voice sounds robotic, with unnatural pauses and inconsistent emphasis. What should you evaluate before using it in the motion piece?
+
+- A. Whether the voice has enough dramatic effects to make the delivery more noticeable.
+- B. Whether the voice sounds natural and matches the tone, pacing, and intended audience of the video.
+- C. Whether the voiceover contains as much information as possible within the available duration.
+- D. Whether the voice can be used without any visual changes to the storyboard.
+
+**Answer:** B
 
 </details>
 
@@ -59,6 +187,69 @@ Learn how to research and select references that establish the visual direction 
 
 <details>
 <summary><strong>Quiz</strong></summary>
+
+### Question 01
+
+You are creating a moodboard for a SaaS motion graphic. Which set of references would give you the most useful foundation for defining the visual direction?
+
+- A. Logo designs from unrelated industries
+- B. Random motion clips with interesting effects
+- C. A mix of composition, typography, color, imagery and motion references
+- D. Several finished videos from the same company
+
+**Answer:** C
+
+---
+
+### Question 02
+
+You find a motion graphic with an animation style you like, but its visual language does not fit the client's audience or brand personality. What should you do?
+
+- A. Add it because the animation itself is visually impressive.
+- B. Use it as the main reference and adjust the brand later.
+- C. Study what works and find references that better fit the project.
+- D. Recreate the animation using the client's colors and typography.
+
+**Answer:** C
+
+---
+
+### Question 03
+
+A moodboard contains ten different motion styles, five illustration styles, several color palettes, and many typography references. What is the main problem?
+
+- A. There are not enough references.
+- B. The references do not establish a clear direction.
+- C. The references contain too many motion examples.
+- D. The moodboard focuses too much on visual design.
+
+**Answer:** B
+
+---
+
+### Question 04
+
+A designer is selecting references for a motion project. Which approach is most useful when deciding whether a reference belongs on the moodboard?
+
+- A. Choose references that look impressive and visually polished.
+- B. Choose references that match the designer's personal style.
+- C. Choose references based only on their popularity.
+- D. Choose references that support a specific visual decision for the project.
+
+**Answer:** D
+
+---
+
+### Question 05
+
+You are building a static moodboard for a motion graphic. The client wants the video to feel technical, mature, and trustworthy. You find a visually impressive reference that uses playful illustrations, bright gradients, and exaggerated characters. What should you do?
+
+- A. Include it because it demonstrates strong motion design
+- B. Include only the color and remove the other elements
+- C. Exclude it because its visual language conflicts with the brief
+- D. Include it and let the storyboard determine whether it works
+
+**Answer:** C
 
 </details>
 
@@ -104,6 +295,69 @@ Learn how to translate the voiceover + script + moodboard into a visual sequence
 <details>
 <summary><strong>Quiz</strong></summary>
 
+### Question 01
+
+What is the main purpose of creating a storyboard before designing the final visuals?
+
+- A. To finalize the color palette
+- B. To create polished presentation frames
+- C. To plan the visual sequence
+- D. To choose the final typefaces
+
+**Answer:** C
+
+---
+
+### Question 02
+
+A voiceover says, “First, connect your data. Then, monitor everything from one dashboard.” How should this information influence the storyboard?
+
+- A. Treat the entire sentence as one visual
+- B. Create separate visual beats for the two actions
+- C. Show the dashboard throughout the sentence
+- D. Focus only on the final dashboard
+
+**Answer:** B
+
+---
+
+### Question 03
+
+You have found a reference with a transition that would work well for your project. What is the best way to use it while storyboarding?
+
+- A. Recreate the transition exactly
+- B. Use it without considering the voiceover
+- C. Study the idea and adapt it to your sequence
+- D. Replace the storyboard with the reference
+
+**Answer:** C
+
+---
+
+### Question 04
+
+While storyboarding, you realize that several shots are visually interesting but do not help communicate the voiceover. What should you do?
+
+- A. Keep them because they add visual variety
+- B. Add more transitions between those shots
+- C. Make the shots more detailed
+- D. Rework them so they support the story
+
+**Answer:** D
+
+---
+
+### Question 05
+
+A storyboard contains six beautifully drawn frames, but it is unclear how the video moves from one frame to the next. What is missing?
+
+- A. More detailed illustrations
+- B. A stronger color palette
+- C. Clear progression between shots
+- D. More typography references
+
+**Answer:** C
+
 </details>
 
 ### Node 2 - Style Frames - Key
@@ -122,6 +376,69 @@ Learn how to turn the storyboard and moodboard into polished key frames that est
 <details>
 <summary><strong>Quiz</strong></summary>
 
+### Question 01
+
+You have a completed storyboard and moodboard for a motion graphic. What is the main purpose of the style frames?
+
+- A. To test the final export settings
+- B. To define how key moments will look
+- C. To replace the storyboard entirely
+- D. To determine the final voiceover
+
+**Answer:** B
+
+---
+
+### Question 02
+
+A storyboard shows a dashboard appearing after a user completes an action. What should the corresponding style frame primarily communicate?
+
+- A. The final visual treatment of that moment
+- B. Every possible animation that could be used
+- C. The complete sequence of the video
+- D. The technical settings for the animation
+
+**Answer:** A
+
+---
+
+### Question 03
+
+You have created a strong style frame, but it looks completely different from the visual direction established in the moodboard. What should you reconsider?
+
+- A. The export resolution
+- B. The number of storyboard shots
+- C. The alignment between the frame and visual direction
+- D. The length of the voiceover
+
+**Answer:** C
+
+---
+
+### Question 04
+
+A designer creates every storyboard frame as a polished style frame. The result takes a long time to produce, but most frames add little value to the final presentation. What is a better approach?
+
+- A. Design only the opening frame
+- B. Design every frame with the same level of detail
+- C. Select the key moments that best establish the visual system
+- D. Remove the storyboard and design the entire video directly
+
+**Answer:** C
+
+---
+
+### Question 05
+
+A style frame looks visually impressive on its own, but the typography, composition, and graphic elements would be difficult to animate consistently across the rest of the video. What should the designer consider?
+
+- A. Whether the frame can establish a practical visual system for motion
+- B. Whether the frame contains enough decorative elements
+- C. Whether the frame uses the most advanced visual effects
+- D. Whether the frame looks different from the other scenes
+
+**Answer:** A
+
 </details>
 
 ### Extra Material - Professional Motion Design Workflows
@@ -129,6 +446,10 @@ Learn how to turn the storyboard and moodboard into polished key frames that est
 Explore real motion design workflows from other designers and studios to see how projects move from brief → concept → script → moodboard → storyboard → style frames → final animation. Use these as additional references to understand different approaches, creative processes, and ways designers solve motion design problems.
 
 **Content**
+- [The 5 Stages of a Motion Design Project - School of Motion](https://www.youtube.com/watch?v=1nChUaFL3rc)
+- [My COMPLETE Motion Graphics WORKFLOW - Kristina ExplainersEasy](https://www.youtube.com/watch?v=Q4GIC1sisb0)
+- [Animating my First Personal Project - Motion Design Process Breakdown - Montinaro Gabriele](https://www.youtube.com/watch?v=EmwwJhHiRbI)
+
 >Purpose
 >Use these as additional references, not as a required process to follow. Pay attention to how different designers approach the same stages and how their ideas develop from the initial concept to the final piece.
 
