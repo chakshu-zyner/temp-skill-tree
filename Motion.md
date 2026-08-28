@@ -129,6 +129,29 @@ Learn how to break down a script and understand how written information translat
 <details>
 <summary><strong>Build</strong></summary>
 
+The client has provided a [rough script](./SplitScript.md) for the launch video. Review it and identify what needs to change before it can work effectively as a motion piece.
+
+Consider:
+
+- What is the main message?
+- Is there a clear story or progression?
+- What information is unnecessary?
+- What should the audience understand or feel at each stage?
+- Which parts can be communicated visually instead of through voiceover?
+- Does the script fit the 30–45 second duration?
+- Does the language sound natural when spoken?
+- Does the tone fit Split and its target audience?
+
+Rewrite the script so that it works as the foundation for the motion video.
+
+Once the script is finalized, create a voiceover using the revised version. Listen back to it and adjust the script where necessary so the pacing feels natural.
+
+**Output:**  
+- Revised Script
+- Final / Dummy Voiceover
+- Script broken into clear visual beats
+- Notes identifying what should be communicated visually
+
 </details>
 
 <details>
@@ -210,6 +233,37 @@ Learn how to research and select references that establish the visual direction 
 
 <details>
 <summary><strong>Build</strong></summary>
+
+Using the **Split brief, revised script, and voiceover** from the previous nodes, develop a static moodboard for the motion graphic.
+
+The goal is not to decide exactly what every scene will look like yet. Use the moodboard to establish the **visual language and design direction** that will guide the storyboard and style frames.
+
+Research and select references for:
+
+- **Color** - Explore a palette that fits the product, audience, and tone.
+- **Typography** - Explore type styles and how typography could behave within the motion piece.
+- **Composition** - Look at layouts, framing, scale, negative space, and visual hierarchy.
+- **Graphic / Illustration Style** - Explore how the world of the video could be represented visually.
+- **Motion References** - Include a small number of references that communicate useful movement, pacing, transitions, or visual behavior.
+
+Don't simply collect references that look good together. Each reference should help answer a question about the video.
+
+Think about:
+
+- What should the video feel like?
+- What visual language fits the audience?
+- How can the visual direction support the personality of Split?
+- What could make the video feel distinctive?
+- What visual approaches should be avoided?
+
+You are free to explore different visual approaches during research, but the final moodboard should communicate **one clear design direction**.
+
+Include a short rationale explaining the direction you selected and why it is appropriate for the project.
+
+**Output:**
+
+- Static Moodboard
+- Short Visual Direction Rationale (Text or Video)
   
 </details>
 
@@ -318,6 +372,44 @@ Learn how to translate the voiceover + script + moodboard into a visual sequence
 <details>
 <summary><strong>Build</strong></summary>
 
+Using the **Split brief, revised script, voiceover, and final moodboard** from the previous nodes, develop a complete storyboard for the motion graphic.
+
+Break the voiceover into clear **visual beats** and decide what the audience should see at each point in the story.
+
+The storyboard should be created using **rough sketches or simple visual representations**. It does not need to look polished or use final design assets. The goal is to communicate the idea, sequence, composition, and action clearly.
+
+For each shot, consider:
+
+- **Voiceover** - What is being said?
+- **Visual** - What does the viewer see?
+- **Action** - What happens on screen?
+- **Transition** - How does this moment move into the next?
+- **Timing** - Approximately how long does the shot last?
+
+Use the moodboard as the visual foundation, but don't simply recreate the references. Develop your own visual solutions for the story.
+
+Focus on:
+
+- Clear storytelling
+- Strong visual ideas
+- Logical progression
+- Connection between voiceover and visuals
+- Pacing
+- Transitions
+- Consistency with the chosen visual direction
+
+The storyboard should communicate the **entire video from beginning to end**.
+
+> **Important:** Keep the visuals rough. This is a planning stage, not a final design stage. A simple sketch, thumbnail, diagram, or rough composition is enough as long as the idea is clearly communicated.
+
+**Output:**
+
+- Complete rough storyboard covering the full video
+- Voiceover divided into visual beats
+- Rough sketches / thumbnails for every shot
+- Action / transition notes
+- Approximate timing for each shot
+
 </details>
 
 <details>
@@ -398,6 +490,38 @@ Learn how to turn the storyboard and moodboard into polished key frames that est
 
 <details>
 <summary><strong>Build</strong></summary>
+
+Using your completed storyboard and moodboard, select the key moments that need to be developed into polished style frames.
+
+Create polished frames that demonstrate how the final motion piece will look.
+
+Your style frames should establish:
+
+- Composition
+- Typography
+- Color
+- Graphic / illustration style
+- Visual hierarchy
+- Imagery / UI treatment where relevant
+- Character or object treatment where relevant
+- How visual elements can transition between states
+
+The frames should feel like part of the **same visual system** and should clearly connect back to the storyboard.
+
+Do not simply make the most visually impressive individual frames you can. Design a system that can realistically be carried throughout the motion piece.
+
+For each style frame, briefly explain:
+
+- Which storyboard moment it represents
+- What the frame is communicating
+- Any important motion or transition consideration
+
+**Output:**
+
+- Selected polished style frames
+- Voiceover for each selected moment
+- Visual idea for each frame
+- Motion / transition notes where relevant
 
 </details>
 
