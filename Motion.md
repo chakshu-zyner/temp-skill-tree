@@ -607,3 +607,27 @@ Explore real motion design workflows from other designers and studios to see how
 
 </details>
 
+<details>
+<summary><strong>Optional Assessment - Complete Motion Project</strong></summary>
+
+You’ve received a new motion design project from a client. Use the provided **[Client Brief](ClientBrief.md)** to take the project from initial understanding to a complete motion design concept.
+
+Work independently and make decisions based on the client's requirements, research, and your design judgment. Do not create multiple options simply to show variety. Focus on developing the direction that you believe is **right for the project**.
+
+### Assessment
+
+- **Brief Understanding:** Extract the key information from the client brief and define the objective, target audience, key message, tone, requirements, and constraints that should influence the creative direction.
+- **Script & Voiceover:** Review the provided and **[Client Script](MingleScript.md)** , create the voiceover, and understand how the script should translate into a visual story and pacing.
+- **Moodboard:** Research and develop a clear visual direction for the motion piece. Establish the color, typography, composition, graphic style, imagery, and motion language.
+- **Storyboard:** Translate the script, voiceover, and moodboard into a complete visual sequence. Develop the story through rough sketches and visual ideas, considering pacing, transitions, and how each scene connects to the next.
+- **Style Frames:** Select the key moments from the storyboard and turn them into polished style frames that establish the final visual direction. Each frame should communicate the voiceover, visual idea, and intended visual treatment.
+
+> **Why it matters**
+>
+> This assessment tests whether you can apply the complete motion design process independently and make confident creative decisions based on the client's needs. The goal is not to create multiple options, but to develop a strong, intentional visual concept that communicates the client's message.
+
+**Goal:** Take a new client from **brief → script → voiceover → visual direction → storyboard → style frames**, making thoughtful creative decisions at every stage.
+
+**Submission:** Complete Figma file + final moodboard + voiceover + complete rough storyboard + final style frames
+
+</details>
