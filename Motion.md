@@ -14,6 +14,34 @@ Learn how to understand a Client brief, identify the objective, target audience,
 <details>
 <summary><strong>Build</strong></summary>
 
+You are the designer working on the Split launch video.
+
+Review the [kickoff conversation](./SplitKickOffCall.md) and extract the information that will guide your motion design process.
+
+Create a **Motion Design Brief** covering:
+
+- Project Objective
+- Target Audience
+- Main Message
+- Supporting Messages
+- Problem
+- Product / Solution
+- Tone & Personality
+- Creative Direction
+- Deliverables
+- Requirements
+- Constraints
+- What to Avoid
+
+>Important
+>Do not simply repeat what the client said.
+>Interpret the conversation and identify the information that is actually relevant to the creative process.
+>Your brief should become the **reference point for the rest of the project**.
+>You will use it in the next nodes to develop the script, voiceover, moodboard, storyboard, and style frames.
+
+**Output:**  
+A completed **Motion Design Brief** based on the client kickoff call.
+
 </details>
 
 <details>
